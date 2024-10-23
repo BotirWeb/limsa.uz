@@ -1,0 +1,75 @@
+{
+  "biz_haqimizda": "О нас",
+  "loyihalar": "Проекты",
+  "xizmatlar": "Услуги",
+  "aloqa": "Контакты",
+
+  "about_title_part1": "Ваш ",
+  "about_title_strong1": " бизнес ",
+  "about_title_part2": " для развития идеальные ",
+  "about_title_strong2": " IT ",
+  "about_title_part3": " решения",
+  "about_description": "Доверьте свой проект профессионалам с более чем 10-летним опытом и достигните высоких результатов в кратчайшие сроки.",
+  "about_button": "Контакт",
+
+  "partner_title": "Количество людей, которые нам доверяют, и успешные проекты",
+  "finish_project": "Завершённые проекты",
+  "partner_clients": "Клиенты",
+
+  "projects_realise": "Реализованные проекты",
+  "projects_title": "Что мы сделали?",
+
+  "service_title": "Типы услуг",
+  "card_title1": "Веб-сайт",
+  "card_text1": "Лендинг для маркетинга и других целей",
+  "card_text2": "Платформы для обучения с платёжными системами",
+  "card_text3": "Интернет-магазины + платёжные системы",
+  "card_text4": "Веб-приложения, CRM, LMS системы",
+  "card_button": "Позвоните сейчас",
+
+  "card_title2": "Мобильные приложения",
+  "card_text_1": "Android",
+  "card_text_2": "IOS",
+
+  "card_title3": "Телеграм-боты",
+  "card_text_3": "Боты с платёжными системами",
+  "card_text_4": "Боты любой сложности",
+  "card_text_5": "Боты для доставки и других проектов",
+  "card_text_6": "Интеграция сайта с ботом",
+
+  "card_title4": "Графический дизайн",
+  "card_text_8": "Посты для SMM",
+  "card_text_9": "Брендинг и логотип",
+  "card_text_10": "Баннеры для видео на YouTube",
+  "card_text_11": "Рекламные баннеры",
+
+  "advantages_answer": "Ответственный",
+  "advantages_title": "Веб-приложения, которые адаптируются под любой экран",
+  "advantages_text": "Startapp гарантирует, что ваш сайт или мобильное приложение будет одинаково хорошо работать на всех устройствах.",
+
+  "feedbacks_title": "Отзывы наших партнёров",
+  "feedback_card_title": "Исмаилджон Мадгазиев",
+  "feedback_card_text": "Full stack веб-разработчик и графический дизайнер с 5-летним опытом",
+
+  "contact_title": "Оставьте нам свои данные",
+  "contact_text": "Наши сотрудники свяжутся с вами в ближайшее время",
+
+  "contact_input_name": "Ваше имя",
+  "contact_input_text": "Как мы можем вам помочь?",
+  "contact_input_button": "Отправить",
+  "contact_input_btn_loader": "Отправляется",
+
+  "footer_title": "Контакты",
+  "footer_card_title": "Адрес",
+  "footer_card_text": "Ташкент, район Юнусабад",
+  "footer_card_time1": "Время работы",
+  "footer_card_time2": "9:00 - 18:00 Пн-Вс",
+  "footer_card_phone": "Телефон",
+  "footer_card_social": "Социальные сети",
+
+  "footer_copy": "© 2024 Limsa. Все права защищены.",
+
+  "modal_title": "Оставьте нам свои данные",
+  "modal_name": "Укажите своё имя",
+  "modal_text": "Как мы можем вам помочь?"
+}
