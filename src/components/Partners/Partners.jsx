@@ -1,15 +1,20 @@
 import { useTranslation } from "react-i18next";
-import "./Partners.scss";
 import { useEffect, useState } from "react";
+import CountUp from "react-countup";
+import ScrollTrigger from "react-scroll-trigger";
+import "./Partners.scss";
 
 const Partners = () => {
   const [projectCount, setProjectCount] = useState(0);
   const [clientCount, setClientCount] = useState(0);
 
+  const [counterOn, setCounterOn] = useState(false);
+
   const { t, i18n } = useTranslation();
 
   useEffect(() => {
     // Loyihalar hisoblagichi
+
     const targetProjects = 500;
     const projectSpeed = 3000;
     const projectIncrement = targetProjects / projectSpeed;
@@ -64,13 +69,33 @@ const Partners = () => {
         <div>
           <h3 className="partner_counter_text">
             {" "}
-            <span class="counter">{projectCount}</span>+
+            <span class="counter">
+              <ScrollTrigger
+                onEnter={() => setCounterOn(true)}
+                onExit={() => setCounterOn(false)}
+              >
+                {counterOn && (
+                  <CountUp start={0} end={500} delay={0} duration={2} />
+                )}
+                +
+              </ScrollTrigger>
+            </span>
           </h3>
           <p className="partner_text">{t("finish_project")}</p>
         </div>
         <div>
           <h3 className="partner_counter_text">
-            <span>{clientCount}</span>+
+            <span>
+              <ScrollTrigger
+                onEnter={() => setCounterOn(true)}
+                onExit={() => setCounterOn(false)}
+              >
+                {counterOn && (
+                  <CountUp start={0} end={20} delay={0} duration={3} />
+                )}
+                +
+              </ScrollTrigger>
+            </span>
           </h3>
           <p className="partner_text">{t("partner_clients")}</p>
         </div>
