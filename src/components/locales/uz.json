@@ -1,0 +1,79 @@
+{
+  "biz_haqimizda": "Biz haqimizda",
+  "loyihalar": "Loyihalar",
+  "xizmatlar": "Xizmatlar",
+  "aloqa": "Aloqa",
+
+  "about_title_part1": "Sizning ",
+  "about_title_strong1": " biznesingizni ",
+  "about_title_part2": " rivojlantirish uchun mukammal ",
+  "about_title_strong2": " IT ",
+  "about_title_part3": " Yechimlar",
+  "about_description": "Loyihangizni 10 yildan ortiq tajribaga ega mutaxassislarga ishonib topshiring va qisqa vaqt ichida yuqori muvaffaqiyatlarga erishing.",
+  "about_button": "Aloqa",
+
+  "partner_title": "Bizga ishongan odamlar soni va muvaffaqiyatli ishlarning soni",
+  "finish_project": "Tugallangan loyihalar",
+  "partner_clients": "Mijozlar",
+
+  "projects_realise": "Chiqarilgan loyihalar",
+  "projects_title": "Biz nima qildik?",
+
+  "service_title": "Xizmat turlari",
+  "card_title1": "Veb-sayt",
+  "card_text1": "Marketing va boshqa maqsadlar uchun ochilish sahifasi",
+  "card_text2": "Ta'lim platformalari To'lov tizimlarini o'z ichiga olgan ta'lim platformasi",
+  "card_text3": "Internet-do'konlar + to'lov tizimlari",
+  "card_text4": "Veb-dasturlar, CRM, LMS tizimlari",
+  "card_button": "Hozir qo'ng'iroq qiling",
+
+  "card_title2": "Mobil ilovalar",
+  "card_text_1": "Android",
+  "card_text_2": "IOS",
+
+  "card_title3": "Telegram Botlari",
+  "card_text_3": "To'lov tizimlarini o'z ichiga olgan botlar",
+  "card_text_4": "Barcha murakkablikdagi botlar",
+  "card_text_5": "Yetkazib berish va turli loyihalar uchun botlar",
+  "card_text_6": "Saytni botga integratsiya qilish",
+
+  "card_title4": "Grafika dizayni",
+  "card_text_8": "SMM xabarlari",
+  "card_text_9": "Brending va logotip",
+  "card_text_10": "Youtube video bannerlari",
+  "card_text_11": "Reklama bannerlari",
+
+  "advantages_answer": "Javobgar",
+  "advantages_title": "Har qanday ekran o'lchamiga mos keladigan veb-ilovalar",
+  "advantages_text": "Startapp veb-saytingiz yoki mobil ilovangiz barcha qurilmalarda birdek yaxshi ishlashini ta'minlaydi.",
+
+  "feedbacks_title": "Hamkorlarimizning fikrlari",
+  "feedback_card_title": "Ismoiljon Madgaziyev",
+  "feedback_card_text": "5 yillik tajribaga ega Full stack web dasturchi va grafik dizayner",
+
+  "contact_title": "Bizga ma'lumotingizni qoldiring",
+  "contact_text": "Xodimlarimiz tez orada siz bilan bog'lanadi",
+  "contact_alert": "Muvaffaqiyatli yuborildi",
+  "contact_error": "Yuborishda xatolik",
+
+  "contact_input_name": "Ismingiz",
+  "contact_input_text": "Sizga qanday yordam bera olamiz?",
+  "contact_input_phone": "Telefon raqamingiz",
+
+  "contact_input_button": "Yuborish",
+  "contact_input_btn_loader": "Yuborilmoqda",
+
+  "footer_title": "Kontaktlar",
+  "footer_card_title": "Manzil",
+  "footer_card_text": "Toshkent shahar Yunusobod tumani",
+  "footer_card_time1": "Ish vaqti",
+  "footer_card_time2": "9:00 18:00 Dush-Yak",
+  "footer_card_phone": "Telefon raqami",
+  "footer_card_social": "Ijtimoiy hisoblar",
+
+  "footer_copy": "© 2024 Limsa. Barcha huquqlar himoyalangan.",
+
+  "modal_title": "Bizga ma'lumotingizni qoldiring",
+  "modal_name": "Ismingiz",
+  "modal_text": "Sizga qanday yordam ber olamiz?"
+}

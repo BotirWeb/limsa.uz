@@ -1,0 +1,87 @@
+.partners {
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px 0;
+
+    img {
+      width: 250px;
+      aspect-ratio: auto 250 / 60;
+      height: 60px;
+    }
+
+    // Partner title
+    .partner_title {
+      font-size: 40px;
+      font-weight: 700;
+      text-align: center;
+      max-width: 800px;
+      margin: 45px 0 55px;
+    }
+
+    // partner counter
+
+    .partner_counter {
+      display: flex;
+      align-items: center;
+      column-gap: 80px;
+      margin-bottom: 40px;
+
+      .partner_counter_text {
+        font-weight: 700;
+        font-size: 44px;
+        color: #6c2dba;
+        text-align: center;
+        margin-bottom: 4px;
+      }
+      .partner_text {
+        font-size: 16px;
+        font-weight: 500;
+        color: #60697b;
+        text-align: center;
+      }
+    }
+
+    //partner logo
+
+    .partner_logos {
+      width: 100%;
+      display: grid;
+      justify-content: space-between;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-gap: 40px;
+      gap: 40px;
+
+      .partner_logo_card {
+        filter: grayscale(100%);
+        transition: all 0.3s ease;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        &:hover {
+          filter: none; /* Hoverda rangli qilish */
+        }
+
+        .partner_logo {
+          width: 120px;
+          height: 120px;
+          margin-bottom: 10px;
+
+          img {
+            object-fit: contain;
+            width: 120px;
+            height: 120px;
+          }
+        }
+        .partner_logo_description {
+          text-align: center;
+          font-size: 20px;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}

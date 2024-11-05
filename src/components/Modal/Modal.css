@@ -1,0 +1,43 @@
+/* button */
+.custom-button {
+  padding: 12px 24px;
+  border-radius: 100px;
+  cursor: pointer;
+  border: 1px solid #6c2dba;
+  font-weight: 700;
+  font-size: 16px;
+  background-color: #6c2dba;
+  color: #fff;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Animatsiya */
+}
+
+.custom-button:hover {
+  background-color: #fff; /* Hover paytida fon rangi */
+  color: #6c2dba; /* Hover paytida matn rangi */
+  border: 1px solid #6c2dba;
+}
+
+/* styles.css */
+@media (max-width: 768px) {
+  .modal-body {
+    padding: 16px; /* Mobil uchun paddingni kamaytirish */
+  }
+
+  .modal-dialog {
+    display: flex;
+    justify-content: center;
+  }
+
+  .modal-content {
+    width: 80%;
+  }
+
+  .modal-title {
+    font-size: 18px; /* Mobil uchun sarlavha shriftini kichik qilish */
+  }
+
+  .modal-footer button {
+    width: 100%; /* Butonlarni to'liq kenglikka kengaytirish */
+    margin-top: 10px; /* Butonlar orasidagi masofani oshirish */
+  }
+}

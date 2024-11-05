@@ -1,0 +1,75 @@
+{
+  "biz_haqimizda": "About us",
+  "loyihalar": "Projects",
+  "xizmatlar": "Services",
+  "aloqa": "Contact",
+
+  "about_title_part1": "Your ",
+  "about_title_strong1": " business ",
+  "about_title_part2": " to grow with perfect ",
+  "about_title_strong2": " IT ",
+  "about_title_part3": " solutions",
+  "about_description": "Entrust your project to professionals with over 10 years of experience and achieve great success in a short time.",
+  "about_button": "Contact",
+
+  "partner_title": "Number of people who trust us and successful projects",
+  "finish_project": "Completed projects",
+  "partner_clients": "Clients",
+
+  "projects_realise": "Released projects",
+  "projects_title": "What did we do?",
+
+  "service_title": "Service types",
+  "card_title1": "Website",
+  "card_text1": "Landing page for marketing and other purposes",
+  "card_text2": "Educational platforms with payment systems",
+  "card_text3": "E-commerce stores + payment systems",
+  "card_text4": "Web applications, CRM, LMS systems",
+  "card_button": "Call now",
+
+  "card_title2": "Mobile apps",
+  "card_text_1": "Android",
+  "card_text_2": "IOS",
+
+  "card_title3": "Telegram Bots",
+  "card_text_3": "Bots with payment systems",
+  "card_text_4": "Bots of any complexity",
+  "card_text_5": "Bots for delivery and various projects",
+  "card_text_6": "Site integration with bots",
+
+  "card_title4": "Graphic design",
+  "card_text_8": "SMM posts",
+  "card_text_9": "Branding and logo",
+  "card_text_10": "YouTube video banners",
+  "card_text_11": "Advertising banners",
+
+  "advantages_answer": "Responsible",
+  "advantages_title": "Web applications that adapt to any screen size",
+  "advantages_text": "Startapp ensures that your website or mobile app works equally well on all devices.",
+
+  "feedbacks_title": "Feedback from our partners",
+  "feedback_card_title": "Ismoiljon Madgaziyev",
+  "feedback_card_text": "Full stack web developer and graphic designer with 5 years of experience",
+
+  "contact_title": "Leave us your information",
+  "contact_text": "Our staff will contact you shortly",
+
+  "contact_input_name": "Your name",
+  "contact_input_text": "How can we help you?",
+  "contact_input_button": "Send",
+  "contact_input_btn_loader": "Sending",
+
+  "footer_title": "Contacts",
+  "footer_card_title": "Address",
+  "footer_card_text": "Yunusabad district, Tashkent",
+  "footer_card_time1": "Working hours",
+  "footer_card_time2": "9:00 - 18:00 Mon-Sun",
+  "footer_card_phone": "Phone number",
+  "footer_card_social": "Social accounts",
+
+  "footer_copy": "© 2024 Limsa. All rights reserved.",
+
+  "modal_title": "Leave us your information",
+  "modal_name": "Leave your name",
+  "modal_text": "How can we assist you?"
+}
